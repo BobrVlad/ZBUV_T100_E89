@@ -1,0 +1,1 @@
+sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"],function(e){return e.extend("demo.buv.manage.projectdraft.Component",{metadata:{manifest:"json"}})});                                                                                         

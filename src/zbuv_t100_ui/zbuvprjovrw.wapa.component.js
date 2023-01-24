@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ovp/app/Component"],function(e){return e.extend("demo.buv.manage.projectoverview.Component",{metadata:{manifest:"json"}})});                                                                                                               
